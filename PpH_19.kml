@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PpH_19" id="PpH_19">
+	<SimpleField name="N" type="string"></SimpleField>
+	<SimpleField name="Estado" type="string"></SimpleField>
+	<SimpleField name="Descripcio" type="string"></SimpleField>
+	<SimpleField name="Norte" type="string"></SimpleField>
+	<SimpleField name="Este" type="string"></SimpleField>
+</Schema>
+<Folder><name>PpH_19</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">1</SimpleData>
+		<SimpleData name="Estado">Yaracuy</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento de Aguas de Yaracuy Cocorote</SimpleData>
+		<SimpleData name="Norte">1141126</SimpleData>
+		<SimpleData name="Este">522391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.7954894269391,10.32294556078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">2</SimpleData>
+		<SimpleData name="Estado">Zulia</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento de Burro Negro</SimpleData>
+		<SimpleData name="Norte">1124630</SimpleData>
+		<SimpleData name="Este">275462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0494335320344,10.1673997283542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">3</SimpleData>
+		<SimpleData name="Estado">Trujillo</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento Ciudad Valera</SimpleData>
+		<SimpleData name="Norte">1027417</SimpleData>
+		<SimpleData name="Este">323975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6025813070937,9.29095384729223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">4</SimpleData>
+		<SimpleData name="Estado">Trujillo</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion Valera</SimpleData>
+		<SimpleData name="Norte">1044029</SimpleData>
+		<SimpleData name="Este">336889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4856751220385,9.44166511656049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">5</SimpleData>
+		<SimpleData name="Estado">Merida</SimpleData>
+		<SimpleData name="Descripcio">Planta Potabilizadora Cacique Murachi</SimpleData>
+		<SimpleData name="Norte">962401</SimpleData>
+		<SimpleData name="Este">229609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4572984054211,8.69853841277194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">6</SimpleData>
+		<SimpleData name="Estado">Merida</SimpleData>
+		<SimpleData name="Descripcio">Planta Potabilizadora La Canalejas</SimpleData>
+		<SimpleData name="Norte">947603</SimpleData>
+		<SimpleData name="Este">249521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2756393875437,8.56591781781673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">7</SimpleData>
+		<SimpleData name="Estado">Merida</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion de Agua Homero Izarra</SimpleData>
+		<SimpleData name="Norte">943034</SimpleData>
+		<SimpleData name="Este">242067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3430696001349,8.52421990516688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">8</SimpleData>
+		<SimpleData name="Estado">Merida</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento Dr Enrique Bourgon</SimpleData>
+		<SimpleData name="Norte">954484</SimpleData>
+		<SimpleData name="Este">266419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1225395760622,8.62898900347082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">9</SimpleData>
+		<SimpleData name="Estado">Merida</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion Triestadal HidroAndes Torondoy</SimpleData>
+		<SimpleData name="Norte">1006071</SimpleData>
+		<SimpleData name="Este">275885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0391308880454,9.09577068613814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">10</SimpleData>
+		<SimpleData name="Estado">Zulia</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion Pueblo Vejo</SimpleData>
+		<SimpleData name="Norte">1119263</SimpleData>
+		<SimpleData name="Este">316321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6763699958742,10.1209998511879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">11</SimpleData>
+		<SimpleData name="Estado">Lara</SimpleData>
+		<SimpleData name="Descripcio">Planta El Manzano</SimpleData>
+		<SimpleData name="Norte">1107753</SimpleData>
+		<SimpleData name="Este">463984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-69.3286460321461,10.021006324084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">12</SimpleData>
+		<SimpleData name="Estado">Falcon</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento El Isiro</SimpleData>
+		<SimpleData name="Norte">1254594</SimpleData>
+		<SimpleData name="Este">430085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-69.6407424342937,11.3485306102301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">13</SimpleData>
+		<SimpleData name="Estado">Falcon</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion Tarana</SimpleData>
+		<SimpleData name="Norte">1236312</SimpleData>
+		<SimpleData name="Este">406087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-69.8601678620192,11.182650234299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">14</SimpleData>
+		<SimpleData name="Estado">Yaracuy</SimpleData>
+		<SimpleData name="Descripcio">Planta Potabilizadora de San Felipe</SimpleData>
+		<SimpleData name="Norte">1145906</SimpleData>
+		<SimpleData name="Este">527167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.7518336267774,10.366146735044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">15</SimpleData>
+		<SimpleData name="Estado">Cojedes</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion Tirgua</SimpleData>
+		<SimpleData name="Norte">1101099</SimpleData>
+		<SimpleData name="Este">568349</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.376439173847,9.96040439310859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">16</SimpleData>
+		<SimpleData name="Estado">Cojedes</SimpleData>
+		<SimpleData name="Descripcio">Planta de Ppotabilizacion Elias Nazar Arrollo</SimpleData>
+		<SimpleData name="Norte">1070522</SimpleData>
+		<SimpleData name="Este">544095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.5980420553383,9.68419206415842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">17</SimpleData>
+		<SimpleData name="Estado">Portuguesa</SimpleData>
+		<SimpleData name="Descripcio">Planta de Agua Camburito</SimpleData>
+		<SimpleData name="Norte">1060949</SimpleData>
+		<SimpleData name="Este">464841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-69.3204190761295,9.59769360260706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">18</SimpleData>
+		<SimpleData name="Estado">Portuguesa</SimpleData>
+		<SimpleData name="Descripcio">Toma de Recoleccion de Agua Potable de Acarigua Estado Portuguesa</SimpleData>
+		<SimpleData name="Norte">1061759</SimpleData>
+		<SimpleData name="Este">463830</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-69.3296397336105,9.60501110883705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">19</SimpleData>
+		<SimpleData name="Estado">Barinas</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion Paez</SimpleData>
+		<SimpleData name="Norte">957782</SimpleData>
+		<SimpleData name="Este">362401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2506462214766,8.66264771172106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">20</SimpleData>
+		<SimpleData name="Estado">Barinas</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento de Punta Gorda</SimpleData>
+		<SimpleData name="Norte">948279</SimpleData>
+		<SimpleData name="Este">373185</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.1523835560523,8.57701609254401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">21</SimpleData>
+		<SimpleData name="Estado">Carabobo</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion Alejo Zuloaga</SimpleData>
+		<SimpleData name="Norte">1120954</SimpleData>
+		<SimpleData name="Este">603097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.0589319976385,10.1392175792118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">22</SimpleData>
+		<SimpleData name="Estado">Carabobo</SimpleData>
+		<SimpleData name="Descripcio">Planta de Potabilizacion Lucio Baldo Soules</SimpleData>
+		<SimpleData name="Norte">1112322</SimpleData>
+		<SimpleData name="Este">619363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.9107361507546,10.0607005846985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">23</SimpleData>
+		<SimpleData name="Estado">Carabobo</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento de Aguas Servidas Los Guayos</SimpleData>
+		<SimpleData name="Norte">1122811</SimpleData>
+		<SimpleData name="Este">621399</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.8918338132917,10.1554889822125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">24</SimpleData>
+		<SimpleData name="Estado">Aragua</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento de Agua Hidrocentro Pie de Cerro</SimpleData>
+		<SimpleData name="Norte">1141251</SimpleData>
+		<SimpleData name="Este">683880</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.320752518839,10.3197740520135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">25</SimpleData>
+		<SimpleData name="Estado">Miranda</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento de Aguas La Mariposa</SimpleData>
+		<SimpleData name="Norte">1152297</SimpleData>
+		<SimpleData name="Este">727274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.9239705447418,10.4173092023589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">26</SimpleData>
+		<SimpleData name="Estado">Miranda</SimpleData>
+		<SimpleData name="Descripcio">Planta de potabilizacion La Guairita</SimpleData>
+		<SimpleData name="Norte">1156864</SimpleData>
+		<SimpleData name="Este">739603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.8111183012216,10.4578341787299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">27</SimpleData>
+		<SimpleData name="Estado">Miranda</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento de Aguas Residuales</SimpleData>
+		<SimpleData name="Norte">1158293</SimpleData>
+		<SimpleData name="Este">742584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.7838078385746,10.4705607076715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">28</SimpleData>
+		<SimpleData name="Estado">Miranda</SimpleData>
+		<SimpleData name="Descripcio">Planta de tratamiento de Aguas Residuales</SimpleData>
+		<SimpleData name="Norte">1158012</SimpleData>
+		<SimpleData name="Este">746811</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.7452298280992,10.46775023393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">29</SimpleData>
+		<SimpleData name="Estado">Miranda</SimpleData>
+		<SimpleData name="Descripcio">Planta Potabilizadora La Pereza</SimpleData>
+		<SimpleData name="Norte">1155692</SimpleData>
+		<SimpleData name="Este">746685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.7465315961015,10.4467918831194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">35</SimpleData>
+		<SimpleData name="Estado">Guarico</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratramiento de Agua Potable</SimpleData>
+		<SimpleData name="Norte">989439</SimpleData>
+		<SimpleData name="Este">677969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.381273000871,8.94749990316704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">36</SimpleData>
+		<SimpleData name="Estado">Guarico</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento HidroPaez</SimpleData>
+		<SimpleData name="Norte">1020814</SimpleData>
+		<SimpleData name="Este">828330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.0122919281635,9.22240777661088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PpH_19">
+		<SimpleData name="N">37</SimpleData>
+		<SimpleData name="Estado">Guarico</SimpleData>
+		<SimpleData name="Descripcio">Planta de Tratamiento de Agua Chapaiguana</SimpleData>
+		<SimpleData name="Norte">1091647</SimpleData>
+		<SimpleData name="Este">786671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.3862102077186,9.86535833655234</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
